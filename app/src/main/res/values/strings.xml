@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calender and Date Picker</string>
+    <string name="pick_date_and_time">Pick Date and TIme</string>
+    <string name="show_bottom_sheet">Show Bottom Sheet</string>
+</resources>
